@@ -367,19 +367,19 @@ bottom:120px;
 }
 
 .demo-2 .bg-img-1 {
-	background-image: url(../images/banner/1.jpg);
+	background-image: url(/images/banner/1.jpg);
 }
 .demo-2 .bg-img-2 {
-	background-image: url(../images/banner/2.jpg);
+	background-image: url(/images/banner/2.jpg);
 }
 .demo-2 .bg-img-3 {
-	background-image: url(../images/banner/3.jpg);
+	background-image: url(/images/banner/3.jpg);
 }
 .demo-2 .bg-img-4 {
-	background-image: url(../images/banner/4.jpg);
+	background-image: url(/images/banner/4.jpg);
 }
 .demo-2 .bg-img-5 {
-	background-image: url(../images/banner/5.jpg);
+	background-image: url(/images/banner/5.jpg);
 }
 
 /* Animations for content elements */
