@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Raleway:400,700,500);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700,500);
 /*
 Author: webthemez.com
 Author URL: http://webthemez.com
@@ -577,7 +577,7 @@ margin-bottom: 15px;
   background-size: cover;
   padding: 100px 0;
   color: #fff;
-  background: url('../images/img2.jpg');
+  background: url('/images/img2.jpg');
   background-size: cover;
 }
 #testimonial h2, #testimonial p{
@@ -603,7 +603,7 @@ margin: 0 8px;
 #about {
   padding: 100px 0;
   background: #3A3A3A;
-  /* background: url('../images/img2.jpg'); */    
+  /* background: url('/images/img2.jpg'); */    
   background-size: cover;  };
 }
 #about .column-title{
@@ -775,7 +775,7 @@ margin: 0;
   background: #FFFFFF;
   background-size: cover;
   color: #000;
-  /* background: url('../images/img2.jpg'); */
+  /* background: url('/images/img2.jpg'); */
   background-size: contain;
 }
 #business-stats h1,
