@@ -1,11 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,700,500);
-/*
-Author: webthemez.com
-Author URL: http://webthemez.com
-*/
-/*************************
-*******Typography******
-**************************/
+@import url(https://cors-anywhere.herokuapp.com/http://fonts.googleapis.com/css?family=Raleway:400,700,500);
+
 body {
   padding-top: 100px;
   background: #fff;
